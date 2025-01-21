@@ -26,9 +26,9 @@ python tf.py data/
 
 ### Example Output
 ```plaintext
-the: 500
-and: 320
-of: 275
+1. stone - 183
+2. one - 166
+3. diamond - 102
 ...
 ```
 
