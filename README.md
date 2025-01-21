@@ -34,7 +34,9 @@ python tf.py data/
 
 ## Project Structure
 - `src/tf.py`: The main Python script for processing files and calculating word frequencies.
-- `data/`: Contains sample text files for testing the program.
+- `data/`: Contains the following files:
+  - `anonymit.txt`, `cDc-0200.txt`, `gems.txt`: Sample text files for testing.
+  - `stop_words`: A list of common words to ignore during word frequency analysis.
 
 ## How It Works
 1. The program scans the specified directory for text files.
